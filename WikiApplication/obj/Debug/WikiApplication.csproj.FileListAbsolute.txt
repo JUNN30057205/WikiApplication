@@ -1,0 +1,10 @@
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.csproj.AssemblyReference.cache
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.Properties.Resources.resources
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.csproj.GenerateResource.cache
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.csproj.CoreCompileInputs.cache
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\bin\Debug\WikiApplication.exe.config
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\bin\Debug\WikiApplication.exe
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\bin\Debug\WikiApplication.pdb
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.exe
+C:\Users\hoops\source\repos\WikiApplication\WikiApplication\obj\Debug\WikiApplication.pdb
